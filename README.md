@@ -38,7 +38,7 @@ airbnbproject/
 └── README.md
 
 ## 📸 Screenshots
-![Home Page](https://raw.githubusercontent.com/Mohitkumar075/airbnb-Project/main/screenshots/home.png)
+![Home Page](./Screenshot%202026-02-20%20222300.png)
 
 ## ⚙️ Installation & Setup
 
