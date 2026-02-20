@@ -2,6 +2,9 @@
 A full-stack Airbnb-inspired web application built using **Node.js, Express.js, EJS, and Tailwind CSS**.  
 This project demonstrates backend development concepts including routing, MVC architecture, server-side rendering, and responsive UI design.
 
+## 📸 Screenshots
+![Home Page](./Screenshot%202026-02-20%20222300.png)
+
 ## 🌐 Project Overview
 This Airbnb Clone allows users to browse and add property listings through a clean and responsive interface.  
 The application follows the MVC (Model-View-Controller) pattern and uses dynamic routing with Express.js.
@@ -36,9 +39,6 @@ airbnbproject/
 ├── app.js            # Main server file
 ├── package.json
 └── README.md
-
-## 📸 Screenshots
-![Home Page](./Screenshot%202026-02-20%20222300.png)
 
 ## ⚙️ Installation & Setup
 
